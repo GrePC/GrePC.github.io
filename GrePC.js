@@ -9,12 +9,12 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 
-// optionsList.forEach(o => {
-//     o.addEventListener("click", () => {
-//         selected.innerHTML = o.querySelector("label").innerHTML;
-//         optionsContainer.classList.remove("active");
-//     });
-// });
+optionsList.forEach(o => {
+    o.addEventListener("click", () => {
+        selected.innerHTML = o.querySelector("label").innerHTML;
+        optionsContainer.classList.remove("active");
+    });
+});
 
 document.addEventListener("DOMContentLoaded", function() {
     document.querySelector(".menu-btn").addEventListener("click", function() {
@@ -22,3 +22,4 @@ document.addEventListener("DOMContentLoaded", function() {
         )
     })
 }) 
+k
