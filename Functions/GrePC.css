@@ -1,0 +1,740 @@
+.bg1 {
+  background: url("/Images/Pages/GrePCHome.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bg2 {
+  background-image: url("/Images/Pages/GrePCDeals.jpg");
+  background-repeat: repeat;
+  background-size: 50%;
+}
+
+.bg3 {
+  background-image: url("/Images/Pages/GrePCAllAboutU.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bg4 {
+  background-image: url("/Images/Pages/GrePCContactUs2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bg5 {
+  background-image: url("/Images/Pages/How2PC.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bg6 {
+  background-image: url("/Images/Pages/How2Monitors.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bg7 {
+  background-image: url("/Images/Pages/How2Network.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bg8 {
+  background-image: url("/Images/Pages/How2Peripheral.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bg9 {
+  background-image: url("/Images/Pages/How2Software.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bg10 {
+  background-image: url("/Images/Pages/How2Hardware.webp");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bg11 {
+  background-image: url("/Images/Pages/How2Advanced.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bg12 {
+  background-image: url("/Images/Pages/How2Storage.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bg13 {
+  background-image: url("/Images/Pages/How2Gaming.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bg14 {
+  background-color: black;
+}
+
+.account {
+  color: white;
+  letter-spacing: 3px;
+  font-weight: bolder;
+  font-size: 25px;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.login-logo {
+  font-size: 100px;
+  color: red;
+  height: 100px;
+}
+
+.nav-tabs {
+  color: white;
+}
+
+.BackBtn {
+  color: white;
+  font-weight: bolder;
+  background-color: red;
+  width: 70px;
+  height: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  border: none;
+  outline: none;
+  border-top-left-radius: 300px;
+  position: fixed;
+}
+
+.PCBuilds {
+  height: 500px;
+}
+
+* {
+  margin: auto;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+nav {
+  display: flex;
+  /* justify-content: space-around; */
+  /* align-items: center; */
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 0;
+}
+
+.Con {
+  color: white;
+  font-size: 40px;
+  text-align: right;
+  padding-top: 60px;
+}
+
+.Email {
+  color: white;
+  font-size: 38px;
+  display: block;
+  text-align: right;
+  text-decoration: none;
+}
+
+.Email:hover {
+  color: red;
+}
+
+.Email:active {
+  color: white;
+}
+
+/* .nav-links {
+  display: flex;
+  justify-content: space-around;
+  width: 50%;
+  list-style-type: none;
+  background-color: rgba(0, 0, 0, 0.5);
+} */
+
+.nav-links a {
+  color: white;
+  letter-spacing: 3px;
+  font-weight: bolder;
+  font-size: 25px;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.nav-links a:active {
+  color: red;
+}
+
+.logo {
+  z-index: 4;
+  color: red;
+  height: 75px;
+  word-spacing: 15px;
+  font-size: 60px;
+  font-weight: bolder;
+  margin-left: 20px;
+}
+
+.logo2 {
+  color: red;
+  height: 75px;
+  word-spacing: 15px;
+  font-size: 40px;
+  margin-left: 340px;
+  padding-top: 22px;
+  font-weight: bolder;
+  align-items: center;
+}
+
+.li {
+  list-style: none;
+}
+
+.skip {
+  height: 36px;
+}
+
+.FYI {
+  color: white;
+  font-size: 50px;
+  font-weight: bolder;
+  padding: 32px;
+  padding-left: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin-left: 25px;
+}
+
+.login-FYI {
+  color: white;
+  font-size: 60px;
+  font-weight: bolder;
+  padding: 32px;
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background: #f7f6ff;
+}
+
+h2 {
+  margin: 16px;
+}
+
+.container {
+  margin-top: -50px;
+  padding: 32px;
+  color: gold;
+  font-weight: bolder;
+}
+
+.select-box {
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+  margin-left: 320px;
+}
+
+.select-box .options-container {
+  background: black;
+  color: #f5f6fa;
+  max-height: 0;
+  width: 100%;
+  opacity: 0;
+  transition: all 0.4s;
+  border-radius: 8px;
+  overflow: hidden;
+  order: 1;
+}
+
+.selected {
+  background: black;
+  border-radius: 8px;
+  margin-bottom: 8px;
+  color: #f5f6fa;
+  font-size: 30px;
+  order: 0;
+}
+
+.selected::after {
+  content: "";
+  background: url("img/arrow-down.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+
+  position: absolute;
+  height: 100%;
+  width: 32px;
+  right: 10px;
+  top: 5px;
+  transition: all 0.4s;
+}
+
+.select-box .options-container.active {
+  max-height: 270px;
+  opacity: 1;
+  overflow-y: scroll;
+}
+
+.select-box .options-container.active+.selected::after {
+  transform: rotateX(180deg);
+  top: -6px;
+}
+
+.select-box .options-container::-webkit-scrollbar {
+  width: 8px;
+  background: #0d141f;
+  border-radius: 0 8px 8px 0;
+}
+
+.select-box .options-container::-webkit-scrollbar-thumb {
+  background: red;
+  border-radius: 0 8px 8px 0;
+}
+
+.select-box .option,
+.selected {
+  padding: 12px 24px;
+  cursor: pointer;
+}
+
+.select-box .option:hover {
+  background: rgba(218, 165, 32, 0.5);
+}
+
+.select-box label {
+  cursor: pointer;
+}
+
+.select-box .option .radio {
+  display: none;
+}
+
+.burger {
+  width: 40px;
+  height: 5px;
+  margin: 0 0 5px;
+  background-color: red;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
+}
+
+.loginbox {
+  width: 320px;
+  height: 420px;
+  background: #000;
+  color: #fff;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  z-index: 1;
+  transform: translate(-50%, -50%);
+  box-sizing: border-box;
+  padding: 70px 30px;
+}
+
+.avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  position: absolute;
+  top: -50px;
+  left: calc(50% - 50px);
+}
+
+h1 {
+  margin: 0;
+  padding: 0 0 20px;
+  text-align: center;
+  font-size: 22px;
+}
+
+.loginbox p {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+}
+
+.loginbox input {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.loginbox input[type="text"],
+input[type="password"] {
+  border: none;
+  border-bottom: 1px solid #fff;
+  background: transparent;
+  outline: none;
+  height: 40px;
+  color: #fff;
+  font-size: 16px;
+}
+
+.loginbox input[type="submit"] {
+  border: none;
+  outline: none;
+  height: 40px;
+  background: #fb2525;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 20px;
+}
+
+.loginbox input[type="submit"]:hover {
+  cursor: pointer;
+  background: gold;
+  color: #000;
+}
+
+.loginbox a {
+  text-decoration: none;
+  font-size: 12px;
+  line-height: 20px;
+  color: darkgrey;
+}
+
+.loginbox a:hover {
+  color: gold;
+}
+
+.Con {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.Email {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.auction-nudge {
+  background-color: rgba(0, 0, 0, 0.7)
+}
+
+div#auction-nudge-items a {
+  color: white;
+  font-size: 23px;
+}
+
+div#auction-nudge-items div#an-search-submit {
+  background-color: black;
+  color: white;
+}
+
+div#auction-nudge-items div#an-search-box {
+  border-color: white;
+}
+
+div#auction-nudge-items ul.an-page-wrap {
+  background: none;
+}
+
+div#auction-nudge-items ul.an-page-wrap li {
+  color: white;
+}
+
+div#auction-nudge-items p.no-items {
+  display: none;
+}
+
+div .an-price,
+.an-ends {
+  color: white;
+}
+
+div#auction-nudge-items .an-view a {
+  color: red;
+}
+
+#auction-nudge-items .image-container img {
+  /* Change this number to match the specified the 'image size' value */
+  width: 250px !important;
+}
+
+p.Work {
+  font-size: 40px;
+  color: white;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+/* nav styles */
+.menu-btn {
+  position: fixed !important;
+  z-index: 4;
+  top: 22px;
+  right: 25px;
+  cursor: pointer;
+  transition: all 0.5s ease-out;
+}
+
+.menu-btn .btn-line {
+  width: 40px;
+  height: 5px;
+  margin: 0 0 5px 0;
+  background: red;
+  transition: all 0.5s ease-out;
+}
+
+.menu-btn.show {
+  transform: rotate(180deg);
+}
+
+.menu-btn.show .btn-line:nth-child(1) {
+  transform: rotate(45deg) translate(5px, 5px);
+}
+
+.menu-btn.show .btn-line:nth-child(2) {
+  opacity: 0;
+}
+
+.menu-btn.show .btn-line:nth-child(3) {
+  transform: rotate(-45deg) translate(8px, -10px);
+}
+
+.menu {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  opacity: 0.9;
+  visibility: hidden;
+}
+
+.menu.show {
+  visibility: visible;
+  z-index: 3;
+}
+
+.menu-branding,
+.menu-nav {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  justify-content: center;
+  float: left;
+  width: 50%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.menu-nav {
+  margin: 0;
+  padding: 0;
+  background: #000000;
+  list-style: none;
+  transform: translate3d(0, -100%, 0);
+  transition: all 0.5s ease-out;
+}
+
+.menu-nav.show {
+  transform: translate3d(0, 0, 0);
+}
+
+.menu-branding {
+  background: #000000;
+  transform: translate3d(0, 100%, 0);
+  transition: all 0.5s ease-out;
+}
+
+.menu-branding.show {
+  transform: translate3d(0, 0, 0);
+}
+
+.menu .menu-item {
+  transform: translate3d(600px, 0, 0);
+  transition: all 0.5s ease-out;
+}
+
+.menu .menu-item.show {
+  transform: translate3d(0, 0, 0);
+}
+
+.menu .menu-item.current>a {
+  color: STEELBLUE;
+}
+
+.menu .nav-link {
+  display: inline-block;
+  position: relative;
+  font-size: 30px;
+  text-transform: uppercase;
+  padding: 1rem 0;
+  font-weight: 300;
+  color: (#666);
+  text-decoration: none;
+  transition: all 0.5s ease-out;
+}
+
+a.nav-link {
+  color: white;
+}
+
+.menu .nav-link:hover {
+  color: red;
+}
+
+.menu-item:nth-child(1) {
+  transition-delay: 0.1s;
+}
+
+.menu-item:nth-child(2) {
+  transition-delay: 0.2s;
+}
+
+.menu-item:nth-child(3) {
+  transition-delay: 0.3s;
+}
+
+.menu-item:nth-child(4) {
+  transition-delay: 0.4s;
+}
+
+.menu-item:nth-child(5) {
+  transition-delay: 0.5s;
+}
+
+@media screen and (max-width:768px) {
+
+  body {
+    padding: 0;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    font-size: 100%;
+    justify-content: center;
+    overscroll-behavior: none;
+    overflow-x: hidden;
+  }
+
+  ul {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding-right: 0px;
+    padding-left: 10px;
+  }
+
+  nav {
+    display: flex;
+    margin-left: 0px;
+  }
+
+  .FYI {
+    margin-left: 0px;
+    font-size: 30px;
+  }
+
+  .select-box {
+    margin-left: 185px;
+  }
+
+  /* .login-FYI {
+    padding-top: 150px;
+    display: none;
+  } */
+
+  .menu-btn {
+    padding-top: -50px;
+    font-size: 30px;
+  }
+
+  /* a {
+    font-size: fixed;
+  } */
+
+  .logo {
+    font-size: 40px;
+    word-spacing: 20px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+  }
+
+  .logo2 {
+    font-size: 30px;
+    word-spacing: 20px;
+    margin-left: 0px;
+    margin-top: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+  }
+
+  /* .login-logo {
+    font-size: 40px;
+    word-spacing: 20px;
+    display: none;
+  } */
+
+  .selected {
+    margin-left: -200px;
+  }
+
+  .options-container.active {
+    margin-left: -135px;
+    padding-bottom: 450px;
+    width: 160%;
+  }
+
+  .nav-link {
+    font-size: 2px;
+    word-spacing: 3px;
+    line-height: 28px;
+    margin-top: 30px;
+    text-align: center;
+  }
+
+  /* label {
+    font-size: 22px;
+  } */
+
+  /* .select-box {
+    margin-right: -150px;
+  } */
+
+  .menu-branding.show {
+    width: 50%;
+  }
+
+  .PCBuilds {
+    height: 350px;
+    width: 350px;
+    display: flex;
+  }
+}
