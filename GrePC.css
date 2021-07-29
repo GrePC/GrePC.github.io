@@ -1,88 +1,88 @@
 .bg1 {
-  background: url("Images/Pages/GrePCHome.jpg");
+  background: url("Images/GrePCHome.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 
 .bg2 {
-  background-image: url("../Images/Pages/GrePCDeals.jpg");
+  background-image: url("Images/GrePCDeals.jpg");
   background-repeat: repeat;
   background-size: 50%;
 }
 
 .bg3 {
-  background-image: url("../Images/Pages/GrePCAllAboutU.jpg");
+  background-image: url("Images/GrePCAllAboutU.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 
 .bg4 {
-  background-image: url("../Images/Pages/GrePCContactUs2.jpg");
+  background-image: url("Images/Pages/GrePCContactUs2.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 
 .bg5 {
-  background-image: url("../Images/Pages/How2PC.jpg");
+  background-image: url("Images/Pages/How2PC.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 
 .bg6 {
-  background-image: url("../Images/Pages/How2Monitors.jpg");
+  background-image: url("Images/Pages/How2Monitors.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 
 .bg7 {
-  background-image: url("../Images/Pages/How2Network.jpg");
+  background-image: url("Images/Pages/How2Network.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 
 .bg8 {
-  background-image: url("../Images/Pages/How2Peripheral.jpg");
+  background-image: url("Images/Pages/How2Peripheral.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 
 .bg9 {
-  background-image: url("../Images/Pages/How2Software.png");
+  background-image: url("Images/Pages/How2Software.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 
 .bg10 {
-  background-image: url("../Images/Pages/How2Hardware.webp");
+  background-image: url("Images/Pages/How2Hardware.webp");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 
 .bg11 {
-  background-image: url("../Images/Pages/How2Advanced.jpg");
+  background-image: url("Images/Pages/How2Advanced.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 
 .bg12 {
-  background-image: url("../Images/Pages/How2Storage.jpg");
+  background-image: url("Images/Pages/How2Storage.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 
 .bg13 {
-  background-image: url("../Images/Pages/How2Gaming.jpg");
+  background-image: url("Images/Pages/How2Gaming.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
