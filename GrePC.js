@@ -9,13 +9,6 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 
-// optionsList.forEach(o => {
-//     o.addEventListener("click", () => {
-//         selected.innerHTML = o.querySelector("label").innerHTML;
-//         optionsContainer.classList.remove("active");
-//     });
-// });
-
 document.addEventListener("DOMContentLoaded", function() {
     document.querySelector(".menu-btn").addEventListener("click", function() {
         document.querySelectorAll('*[class^="menu"]').forEach( item=> item.classList.toggle("show")
