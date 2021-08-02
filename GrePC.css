@@ -436,6 +436,10 @@ input[type="password"] {
   background-color: rgba(0, 0, 0, 0.5);
 }
 
+.GoogleDrivePics {
+  background-color: #000;
+}
+
 .auction-nudge {
   background-color: rgba(0, 0, 0, 0.7)
 }
@@ -658,12 +662,12 @@ a.nav-link {
     margin-left: 185px;
   }
 
-    .menu-btn {
+  .menu-btn {
     padding-top: -50px;
     font-size: 30px;
   }
 
-   .logo {
+  .logo {
     font-size: 40px;
     word-spacing: 20px;
     letter-spacing: 1px;
@@ -679,7 +683,7 @@ a.nav-link {
     word-spacing: 1px;
   }
 
-    .selected {
+  .selected {
     margin-left: -200px;
   }
 
@@ -696,7 +700,7 @@ a.nav-link {
     margin-top: 30px;
     text-align: center;
   }
-  
+
   .menu-branding.show {
     width: 50%;
   }
