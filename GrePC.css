@@ -655,6 +655,14 @@ a.nav-link {
     margin-left: 0px;
   }
 
+  .bg1 {
+    background: url("Images/RigPic.png")center;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    background-color: #000;
+  }
+
   .FYI {
     margin-left: 0px;
     font-size: 30px;
