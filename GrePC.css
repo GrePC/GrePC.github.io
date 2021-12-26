@@ -716,7 +716,7 @@ a.nav-link {
   }
 
   .selected {
-    margin-left: -200px;
+    margin-left: 0px;
   }
 
   .options-container.active {
