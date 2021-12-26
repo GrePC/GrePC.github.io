@@ -667,6 +667,7 @@ a.nav-link {
 
   .bg1 {
     background: url("Images/RigPic.png")center;
+    overflow-y: scroll;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
