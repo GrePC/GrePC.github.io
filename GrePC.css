@@ -94,6 +94,10 @@
   background-color: black;
 }
 
+::-webkit-scrollbar {
+  display: none;
+}
+
 .account {
   color: white;
   letter-spacing: 3px;
