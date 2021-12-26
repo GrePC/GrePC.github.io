@@ -135,6 +135,11 @@
   height: 500px;
 }
 
+.GoogleDrive {
+  margin: 0;
+  height: 100%;
+}
+
 * {
   margin: auto;
   padding: 0px;
