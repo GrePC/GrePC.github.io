@@ -667,7 +667,7 @@ a.nav-link {
   .bg1 {
     background: url("Images/RigPic.png")center;
     background-repeat: no-repeat;
-    /* background-attachment: fixed; */
+    background-attachment: fixed;
     background-size: cover;
     background-color: #000;
   }
