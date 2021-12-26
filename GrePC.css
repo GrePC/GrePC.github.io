@@ -1,5 +1,6 @@
 .bg1 {
   background: url("Images/RigPic.png") center;
+  overflow: hidden;
   padding-bottom: 600px;
   background-repeat: no-repeat;
   /* background-attachment: fixed; */
@@ -244,7 +245,6 @@ nav {
 * {
   margin: 0;
   box-sizing: border-box;
-  overflow: hidden;
 }
 
 body {
