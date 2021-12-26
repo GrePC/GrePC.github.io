@@ -17,6 +17,7 @@
 .bg3 {
   background-image: url("Images/GrePCAllAboutU.jpg");
   overflow: hidden;
+  padding-bottom: 600px;
   background-repeat: no-repeat;
   /* background-attachment: fixed; */
   background-size: cover;
@@ -677,9 +678,10 @@ a.nav-link {
 
   .bg3 {
     background-image: url("Images/GrePCAllAboutU.jpg");
-    overflow-y: scroll;
+    overflow: scroll;
+    padding-bottom: 600px;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
     background-size: cover;
   }
 
